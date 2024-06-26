@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{B395EE72-2A3F-4906-6941-3C8AB330A772}</ProjectGuid>
+    <ProjectGuid>{4CCEEB85-C661-506E-43C4-3ADB8D3A8866}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Unity.ProBuilder.Editor</AssemblyName>
@@ -838,39 +838,39 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Unity.ProBuilder.csproj">
-      <Project>{A258CA38-48FF-B08B-3401-E6616BED02C2}</Project>
+      <Project>{98FEDF4A-A073-74C2-C4E8-198703DE0FF4}</Project>
       <Name>Unity.ProBuilder</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.ProBuilder.AssetIdRemapUtility.csproj">
-      <Project>{E625812D-A356-F1D0-1AE6-6B658625AAC1}</Project>
+      <Project>{256E40DE-9480-FEDA-7CA1-0399776D96CF}</Project>
       <Name>Unity.ProBuilder.AssetIdRemapUtility</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.ProBuilder.Stl.csproj">
-      <Project>{8302A62C-D4D4-EB18-77E2-D90FF55704AF}</Project>
+      <Project>{F8E4FAF1-8EB2-A133-ECCB-431A1CF7173E}</Project>
       <Name>Unity.ProBuilder.Stl</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Settings.Editor.csproj">
-      <Project>{C2901194-2F3F-D73F-B44A-8ABCF00E2BBB}</Project>
+      <Project>{ED885167-0E9E-8191-AB28-242303323B72}</Project>
       <Name>Unity.Settings.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.ProBuilder.Csg.csproj">
-      <Project>{CD8C1480-16A1-5F4A-7879-875571F01966}</Project>
+      <Project>{ED9A0D3B-39C5-B98D-4770-75DE6FA99B0E}</Project>
       <Name>Unity.ProBuilder.Csg</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEditor.UI.csproj">
-      <Project>{1F9A6DF1-D2D2-1882-4164-22457E1B194D}</Project>
+      <Project>{71DFDD25-84BC-6040-D100-C18812BBE31D}</Project>
       <Name>UnityEditor.UI</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEngine.UI.csproj">
-      <Project>{827CEA92-7854-7A04-9E30-16D5C66FFC27}</Project>
+      <Project>{691BF28E-F3D1-C9F4-980A-6C48AF6AC6DE}</Project>
       <Name>UnityEngine.UI</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEngine.TestRunner.csproj">
-      <Project>{B7989285-054D-21F0-2121-223A0FC7549C}</Project>
+      <Project>{616BE223-C15C-833B-3B01-9528ED15D8E0}</Project>
       <Name>UnityEngine.TestRunner</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEditor.TestRunner.csproj">
-      <Project>{7E468B44-FED2-E425-6CC0-2065CC61CF67}</Project>
+      <Project>{132E9832-46CE-A7CC-1061-C74F57F74F2E}</Project>
       <Name>UnityEditor.TestRunner</Name>
     </ProjectReference>
   </ItemGroup>
