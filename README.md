@@ -4,4 +4,6 @@ It is built with my honours project as a base, but with a different direction.
 
 I also use this project as an excuse to build 3D environments. :)
 
+![unity scene image](scene.png)
+
 
