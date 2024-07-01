@@ -330,8 +330,6 @@
 "Assets/Scripts/Actions.cs"
 "Assets/Scripts/CameraFollow.cs"
 "Assets/Scripts/DroneFollow.cs"
-"Assets/Scripts/envColor.cs"
-"Assets/Scripts/ObjName.cs"
 "Assets/Scripts/PlayerMovement.cs"
 -langversion:8.0
 

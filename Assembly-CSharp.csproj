@@ -59,8 +59,6 @@
     <Compile Include="Assets\Scripts\PlayerMovement.cs" />
     <Compile Include="Assets\Scripts\Actions.cs" />
     <Compile Include="Assets\Scripts\DroneFollow.cs" />
-    <Compile Include="Assets\Scripts\envColor.cs" />
-    <Compile Include="Assets\Scripts\ObjName.cs" />
     <Compile Include="Assets\Scripts\CameraFollow.cs" />
   </ItemGroup>
   <ItemGroup>

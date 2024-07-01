@@ -10,7 +10,7 @@ using System.Text.RegularExpressions;
 public class PlayerMovement : MonoBehaviour
 {
     public CharacterController controller;
-    public float speed = 2f;
+    public float speed = 20f;
     public float gravity = -1.81f;
     public Camera cam;
 
